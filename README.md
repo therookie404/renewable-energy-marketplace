@@ -16,7 +16,7 @@ Open `index.html` directly in any browser — no build step, no server required.
 | Role | Email | Password |
 |------|-------|----------|
 | ⚡ Producer | producer@demo.com | 123456 |
-| 🏠 Consumer | consumer@demo.com | 123456 |
+| 🏠 Consumer | consumer21@demo.com | 123456 |
 | 💰 Investor | investor@demo.com | 123456 |
 
 ---
