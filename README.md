@@ -1,4 +1,4 @@
-# 🌿 Lumina — India's P2P Renewable Energy Marketplace
+# Lumina — India's P2P Renewable Energy Marketplace
 
 > Trade clean solar, wind & biogas energy peer-to-peer. No DISCOM middlemen. Real CO₂ tracking.
 
@@ -15,13 +15,13 @@ Open `index.html` directly in any browser — no build step, no server required.
 **Quick Demo Logins** (available on the Login page):
 | Role | Email | Password |
 |------|-------|----------|
-| ⚡ Producer | producer@demo.com | 123456 |
-| 🏠 Consumer | consumer21@demo.com | 123456 |
-| 💰 Investor | investor@demo.com | 123456 |
+| Producer | producer@demo.com | 123456 |
+| Consumer | consumer21@demo.com | 123456 |
+| Investor | investor@demo.com | 123456 |
 
 ---
 
-## 📁 File Structure
+##  File Structure
 
 ```
 lumina/
@@ -34,7 +34,7 @@ lumina/
 
 ---
 
-## ✨ Features
+## Features
 
 ### 3 User Roles
 - ** Producer** — List solar/biogas/wind energy, manage listings, view earnings analytics
@@ -75,29 +75,6 @@ lumina/
 
 ---
 
-##  Getting Started
-
-```bash
-# Clone the repo
-git clone https://github.com/yourusername/lumina.git
-cd lumina
-
-# Just open the file — that's it
-open index.html
-```
-
-To connect your own Firebase project, replace the config object in `index.html` (~line 5137):
-
-```javascript
-const firebaseConfig = {
-  apiKey: "YOUR_API_KEY",
-  authDomain: "YOUR_PROJECT.firebaseapp.com",
-  projectId: "YOUR_PROJECT_ID",
-  ...
-};
-```
-
----
 
 ##  Regulatory Context
 
