@@ -8,7 +8,7 @@
 
 ---
 
-##  Live Demo
+##  Live Demo - https://therookie404.github.io/renewable-energy-marketplace/
 
 Open `index.html` directly in any browser — no build step, no server required.
 
