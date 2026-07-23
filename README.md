@@ -82,7 +82,9 @@ Lumina's P2P model is aligned with:
 - **CERC P2P Energy Trading Regulations 2023** (Central Electricity Regulatory Commission)
 - **India National Smart Metering Programme** (NSMP) — 250M meters by 2026
 - Active pilot programs in Maharashtra, Gujarat & Andhra Pradesh
-
+  
+## Security
+   This project underwent a self-conducted security audit covering XSS, CSP, session handling, and Firestore access control. See [SECURITY.md](./SECURITY.md) for full details.
 ---
 
 ## 📜 License
